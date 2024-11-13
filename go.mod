@@ -1,3 +1,3 @@
-module g.tizu.dev/colr v1.0.0
+module g.tizu.dev/colr
 
 go 1.23.2
